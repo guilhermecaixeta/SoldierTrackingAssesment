@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldierTrackingAssesment", "SoldierTrackingAssesment\SoldierTrackingAssesment.csproj", "{38081E60-2FB6-43BF-9BEE-0327D16C2313}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldierTrackingAssesment.App", "SoldierTrackingAssesment\SoldierTrackingAssesment.App.csproj", "{38081E60-2FB6-43BF-9BEE-0327D16C2313}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.SoldierTrackingAssesment", "Infra.SoldierTrackingAssesment\Infra.SoldierTrackingAssesment.csproj", "{484E5170-DF00-40B6-8BC9-0F3F3375D4DF}"
 EndProject

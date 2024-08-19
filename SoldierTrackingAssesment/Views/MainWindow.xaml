@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <DataGrid Name="SoldierDataGrid" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Rank" Binding="{Binding Rank}"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>
